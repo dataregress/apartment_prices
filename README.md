@@ -15,8 +15,10 @@ https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-mi
 
 The data has been anonymized and is not scrapped for commercial usage.
 
-#machinelearning #ml #dataregression #dubai #data #science
-
 ### Notes:
 
 Do note that the scrapping is very specific to a portal that I chose for my data source. I have obscured the URL, just in case. The purpose is to showcase the logics and technics went into scrapping data.
+
+### Tags
+
+#machinelearning #ml #dataregression #dubai #data #science
