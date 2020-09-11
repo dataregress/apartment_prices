@@ -1,4 +1,4 @@
-# Apartment Prices:
+# Apartment Price Prediction
 
 ### Introduction:
 This project is inspired by the famous House Price prediction project on Kaggle (https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
